@@ -1,2 +1,2 @@
-# Newark-Liberary-Database
+# Newark Liberary Database
 A database project designed for a public library, where the schema models core entities such as patrons, employees, branches, books, and checkouts. The project involved building an ER diagram, converting it into relational tables, and applying 3NF normalization to ensure minimal redundancy and strong data integrity. SQL was used to implement the schema, define constraints (primary/foreign keys), and write queries for core operations like tracking checkouts, managing patrons, and aggregating circulation data.
